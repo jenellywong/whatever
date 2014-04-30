@@ -8,5 +8,5 @@ get '/new' do
 end
 
 get '/what' do
-	"<h1>new stuffs</h1>"
+	"new stuffs"
 end
