@@ -10,4 +10,7 @@ end
 
 get '/what' do
 	"new stuffs"
+
+get '/again' do
+	"newer" 
 end
